@@ -3,16 +3,21 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Coleccionable3
+  - Coleccionable1
+  - Coleccionable2
+  - Ground
+  - Trampa
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Fondo
   - Water
   - UI
-  - 
-  - 
+  - Plataforma
+  - Terreno
   - 
   - 
   - 
@@ -38,6 +43,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 374956831
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Plataforma
+    uniqueID: 3171072907
     locked: 0

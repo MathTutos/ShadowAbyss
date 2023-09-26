@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class StairController : MonoBehaviour
 {
-    public float climbSpeed = 5f; // Velocidad de subida o bajada en la escalera
+    public float climbSpeed = 3f; // Velocidad de subida o bajada en la escalera
 
     private bool isOnStairs = false; // Indica si el jugador est� en la escalera
 
