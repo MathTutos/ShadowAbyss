@@ -15,8 +15,8 @@ public class StatsController : MonoBehaviour
     {
         _items    = new TMP_Text[3];
         //_powers   = new Image[3];
-        _lives    = new Image[5];
-        //_NO_lives = new Image[5];
+        _lives    = new Image[3];
+        //_NO_lives = new Image[3];
 
         _lives[0]     = transform.GetChild(0).GetChild(0).gameObject.GetComponent<Image>();
         _lives[1]     = transform.GetChild(0).GetChild(1).gameObject.GetComponent<Image>();

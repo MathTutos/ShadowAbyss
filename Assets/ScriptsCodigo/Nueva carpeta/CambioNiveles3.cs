@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class CoinController : MonoBehaviour
+public class CambioNiveles3 : MonoBehaviour
 {
 
     [SerializeField] private AudioSource Coin_SFX;
@@ -22,11 +22,11 @@ public class CoinController : MonoBehaviour
         yield return new WaitForSeconds(delay); 
         Destroy(gameObject);
 
-        if(SceneManager.GetActiveScene().name=="Nivel1"){
-            SceneManager.LoadScene("Nivel2");
+        if(SceneManager.GetActiveScene().name=="LV3"){
+            SceneManager.LoadScene("Win");
         }
         else{
-            SceneManager.LoadScene("Nivel1");
+            SceneManager.LoadScene("Nivel3");
         } 
     }
 

@@ -6,7 +6,7 @@ public class PersonajeController : MonoBehaviour
 {
     
      
-     float Niveltecho = 1.3f;
+     float Niveltecho = -2f;
      float velocidad = 5f;
      float fuerzaImpulso = 10000;
      float fuerzasalto = 37;

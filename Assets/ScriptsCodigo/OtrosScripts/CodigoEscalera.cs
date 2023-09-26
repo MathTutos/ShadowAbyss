@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class StairController : MonoBehaviour
+public class CodigoEscalera : MonoBehaviour
 {
     public float climbSpeed = 3f; // Velocidad de subida o bajada en la escalera
 
