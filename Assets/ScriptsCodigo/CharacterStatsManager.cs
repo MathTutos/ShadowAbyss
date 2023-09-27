@@ -17,7 +17,7 @@ public class CharacterStatsManager : MonoBehaviour
     private int scoreForItem3 = 3;
     //private int scoreForPower = 10;
 
-    private float respawnHigh = 6f;
+    private float respawnHigh = 2f;
 
 
     private void Start()
