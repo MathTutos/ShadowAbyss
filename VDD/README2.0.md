@@ -98,11 +98,14 @@ _describir las armas, gemas, monedas, etc. que se pueden recoger/obtener/adquiri
 2. GUI Interfaces:
 
 ![alt text][Interfaces]  
-![alt text][Niveles]  
+
 <!-- Referencias para las imagenes -->
-
-
 [Niveles]: /VDD/INTERFACES_UI.png "Esquema de los 3 niveles"  
+
+![alt text][Niveles]  
+
+[Niveles]: /VDD/Niveles.png "Esquema de los 3 niveles"  
+
  
 
    2.1 Main Menu Interface:  
