@@ -31,6 +31,7 @@ public class CharacterStatsManager : MonoBehaviour
             Destroy(this);
         }
         respawnPoint = new Vector3(0,respawnHigh,0);
+        
     }
 
     public void setScore(int _score){
