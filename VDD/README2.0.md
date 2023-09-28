@@ -97,11 +97,11 @@ _describir las armas, gemas, monedas, etc. que se pueden recoger/obtener/adquiri
   _describir los controles_  
 2. GUI Interfaces:
 
-![alt text][wireframe]  
-![alt text][Level1]  
+![alt text][Interfaces]  
+![alt text][Niveles]  
 <!-- Referencias para las imagenes -->
-[wireframe]: /Assets/Readme_Img/wireframes_UI.jpg "Wireframe de las UI" 
-[Level1]: /Assets/Readme_Img/Level1.png "Esquema para el nivel 1"  
+[wireframe]: /VDD/Readme_Img/UI-Interfaces.png "Interfaces de las UI" 
+[Level1]: /VDD/Readme_Img/UI-Niveles.png "Esquema de los 3 niveles"  
 
    2.1 Main Menu Interface:  
        _describir las opciones del manú ppal_  
