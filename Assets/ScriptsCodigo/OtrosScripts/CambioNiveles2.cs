@@ -9,7 +9,7 @@ public class CambioNiveles2 : MonoBehaviour
     [SerializeField] private AudioSource Coin_SFX;
 
     private void OnTriggerEnter2D(Collider2D collision){ 
-        Debug.Log("Moneda");
+        Debug.Log("Meta");
         Coin_SFX.Play(); //Sonido para la moneda antes de cambiar de escena 
 
         StartCoroutine(goNextLevel(Coin_SFX.clip.length));
