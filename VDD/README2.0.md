@@ -100,8 +100,8 @@ _describir las armas, gemas, monedas, etc. que se pueden recoger/obtener/adquiri
 ![alt text][Interfaces]  
 ![alt text][Niveles]  
 <!-- Referencias para las imagenes -->
-[wireframe]: /VDD/UI-Interfaces.png "Interfaces de las UI" 
-[Level1]: /VDD/UI-Niveles.png "Esquema de los 3 niveles"  
+[wireframe]: /VDD/Interfaces.png "Interfaces de las UI" 
+[Niveles]: /VDD/Niveles.png "Esquema de los 3 niveles"  
 
    2.1 Main Menu Interface:  
        _describir las opciones del manú ppal_  
