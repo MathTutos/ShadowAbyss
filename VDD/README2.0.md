@@ -1,33 +1,32 @@
 # Videogame Design Document
 ## Sección 1 - Generalidades
 1. Título:  
-_título del juego_  
+Shadow Abyss
 
 2. Género del juego:  
-_género del juego_
+Acción y aventura, rol
 
 3. Perspectiva:  
 Tercera persona 2D  
 
 4. Modo(s) de juego:
-- Single player  
-- Multi player (opcional)  
+- Single player
+    
 5. Audiencia objetivo:
 - Edades 16-30
 - Fans de los juegos de plataforma retro
+  
 6. Idea central:  
-_descripción de la idea central del juego_  
+El personaje principal, un héroe o una heroína, debe rescatar a su hermana de un lugar peligroso. La hermana ha sido secuestrada por un grupo de enemigos, y el personaje principal debe luchar contra ellos y superar obstáculos para llegar a ella. 
 
 7. Objetivo del juego:  
-_descripción del objetivo del juego_  
+El objetivo del juego es rescatar a la hermana del personaje principal.
 
 8. Tópico del juego:  
 Juego de Plataforma Heróico  
 
 9. Plataformas disponibles:
-- Android
-- PC (Linux, Win11, Mac)
-- Xbox360
+- Windows 11
 
 ## Sección 2 - Background & Flujo del juego
 1. Contexto:  
