@@ -29,71 +29,64 @@ Juego de Plataforma Heróico
 - Windows 11
 
 ## Sección 2 - Background & Flujo del juego
-1. Contexto:  
-_describir el contexto/historia donde se desarrolla el juego_  
+1. Contexto:
+   
+El juego se desarrolla en un mundo de fantasía mágica donde los elementos naturales son la base de la magia y el poder. El mago que secuestró a Sylphiette, la hermana de Rudy, busca controlar todos los elementos para obtener un inmenso poder y dominio sobre el mundo.
+
+La sociedad en este mundo está estructurada en torno a la magia elemental, con diferentes facciones que compiten por el control de los elementos. El mago secuestrador, en su búsqueda de poder absoluto, ha desencadenado una guerra entre estas facciones, lo que ha llevado a un caos generalizado y al secuestro de Sylphiette como parte de su plan maestro.
+
+A medida que Rudy avanza en su búsqueda, descubre los secretos oscuros que rodean el mundo y cómo su propia búsqueda de poder y obsesión lo ha llevado a ser parte del problema en lugar de la solución. La historia se convierte en una reflexión sobre la moralidad y la redención en un mundo donde la línea entre el bien y el mal es difusa.
 
 2. Historia del personaje:  
-_describir quién es el personaje y cómo se conecta con la historia del juego_  
+El personaje principal es un aventurero valiente pero también un tanto solitario. Ha pasado la mayor parte de su vida explorando y enfrentándose a peligros en busca de tesoros y reliquias. Es inteligente, astuto y posee habilidades físicas excepcionales, lo que le permite superar desafíos y enemigos con facilidad, para poder rescatar a su hermana.
 
 3. Historia de los enemigos:  
-_describir quienes son los enemigos (si los hay) y cómo se conectan con la historia del juego_  
+Quieren obtener el poder de ciertas reliquias que solo se pueden desencriptar con una habilidad única que tiene Sylphiette.
 
 4. Desarrollo de la historia:  
-_describir cómo se desarrolla la historia del juego a medida que le personaje avanza en el mismo_  
+Mientras el personaje supera cada nivel, va obteniendo cierta cantidad de reliquias que le van a ayudar mucho a mejorar sus poderes
+y a poder derrotar al secuestrador.
 
 ## Seccción 3 - Juego
 1. Objectivo(s):
-- objetivo 1
-- objetivo 2
-- etc
+- Rescatar a la hermana
+- Recolectar coleccionables 
+- Eliminar o superar los obstaculos
 2. Reglas del juego:
-- Regla 1 del juego
-- Regla 2 del juego
-- etc
+- El jugador solo tiene 3 vidas
+- Debe recolectar la mayor cantidad de objetos coleccionables para aumentar su poder
+      
 3. Mecánica del juego:
-  - Movimientos del personaje
-  - Movimientos de los enemigos
+  - Movimientos del personaje (con las teclas de asignación de flechas)
   - Obstáculos y trampas
 4. Completar con varios o todos de los siguientes (a necesidad)
-• Game options
-• Modes
-• Game levels
-• Player’s controls
-• Winning
-• Losing
-• End
-• Why is all this fun? - Elementos de gamificación
+• Game options: Activar/desactivar sonido. Regresar al menú
+• Modes: Un solo jugador
+• Game levels: Nivel 1, 2 y 3.
+• Player’s controls: Se utilizan las flechas de movimiento.
+• Winning: Rescata a la hermana
+• Losing: La hermana muere
+• End: Felicitaciones por completar el juego
 
 ## Section 4 – Game Elements
-1. Environment:
-_descripción del entorno del juego_  
 
-2. Personajes:  
+1. Personajes:  
    2.1 Personajes Jugadores:
-      - Enumerar y hacer una breve descripción
-      - de los personajes jugadores
-      - del juego  
-
-   2.2 Personajes NO Jugadores:
-      - Enumerar y hacer una breve descripción
-      - de los personajes NO jugadores
-      - del juego  
-
-3. Armas o elementos colectables:  
-_describir las armas, gemas, monedas, etc. que se pueden recoger/obtener/adquirir/encontrar en cada nivel_  
+      - Debido a limitaciones técnicas, solo hay un jugador (el profesor no dio indicaciones de cómo agregar NPC's)
+      - El personaje principal: Su nombre será Rudy. El personaje principal es un aventurero valiente pero también un tanto solitario.
+2. Armas o elementos colectables: 
+Pociones: Objetos para aumentar el mana 
+Gemas: Reliquias para aumentar el poder
 
 ## Sección 5 – Game Play I/O Controls & UI Interfaces
 1. Game Play I/O Controls:
 - Teclado  
   Movimiento del personaje:
-  - Arrow keys <- ->
-  - A and D keys  
+  - Arrow keys <- ->  
   Special keys:
-  - Space = jump
-  - E = interaction (e.g. open doors)
-  - Esc = pause
-- Control de Xbox  
-  _describir los controles_  
+  - Space = salto
+  - Dos veces Space = Doble salto
+ 
 2. GUI Interfaces:
 
 ![alt text][Interfaces]  
@@ -105,16 +98,14 @@ _describir las armas, gemas, monedas, etc. que se pueden recoger/obtener/adquiri
 
 [Niveles]: /VDD/Niveles.png "Esquema de los 3 niveles"  
 
- 
-
    2.1 Main Menu Interface:  
-       _describir las opciones del manú ppal_  
+       Jugar: Comienza el juego por defecto en el Nivel 1.
+       Niveles: Seleccionables desde el 1 hasta el nivel 3.
+       Salir: Cerrar el juego
    2.2 Pause Menu:  
-       _describir las opciones del menú de pausa_  
+      Reanudar: Salir del menú de pausa  y continuar con el juego
+      Salir al Menú: Regresar al menú principal
+      Opciones: Configuraciones del juego
    2.3 Options Menu:  
-       _describir las opciones del menú de opciones_  
-
-## Sección 6 – Características Visuales y de Audio 
-_describir las características visuales y de sonido del videojuego_
-
-## TODAS LAS OTRAS SECCIONES QUE PUEDAN SER NECESARIAS
+        Desactivar y Activar sonido
+        Regresar al Menú Principal
